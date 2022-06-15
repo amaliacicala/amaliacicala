@@ -7,8 +7,8 @@
 <h3><code>𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...</code></h3>
 
 <p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Following a 6-month intensive <strong>Full Stack Development</strong> course by Develhope</p>
-<p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Learning <code>JavaScript</code>, <code>React</code>, <code>Node</code>, <code>TypeScript</code></p>
-<p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Daily using <code>HTML</code>, <code>CSS</code>, <code>SASS</code>, <code>Bootstrap</code>, <code>WordPress</code>, <code>Elementor</code></p>
+<p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Learning <code>React</code>, <code>Node</code>, <code>TypeScript</code></p>
+<p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Daily using <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>SASS</code>, <code>Bootstrap</code>, <code>WordPress</code>, <code>Elementor</code></p>
 <p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Developing a real web application using <strong>agile methodologies</strong></p>
 <p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Open to work 👩🏻‍💻</p>
 
