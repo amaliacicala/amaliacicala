@@ -4,13 +4,18 @@
 
 <h3 align="center"><em>Jr Full Stack Developer</em>
   <br><br>
-    <code><img height="20" alt="html" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"></code>
-    <code><img height="20" alt="css" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png"></code>
-    <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-    <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-    <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-    <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-    <code><img height="20" alt="sass" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png"></code>
+    <code><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></code>
+    <code><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></code>
+    <code><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></code>
+    <code><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></code>
+    <code><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></code>
+    <code><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></code>
+  <br>
+    <code><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></code>
+    <code><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></code>
+    <code><img alt="Ant Design" src="https://img.shields.io/badge/-AntDesign-ff4d4f?&logo=ant-design&logoColor=white"></code>
+    <code><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></code>
+    <code><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></code>
 </h3>
 
 <h3><code>I'm currently...</code></h3>
@@ -24,6 +29,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1G6sMOocL7eeOgb6MY/giphy.gif" width="100"><br>
   For enquires, reach out at <a href="mailto:cicala.amalia@gmail.com">cicala.amalia@gmail.com</a> or over on <a href="https://www.linkedin.com/in/amaliacicala" target="_blank">LinkedIn</a>.
 </p>
