@@ -1,8 +1,10 @@
 
-<h1 align="center">Hi there!<br>I'm Amalia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
+<h1 align="center">
+  Hi there!<br>I'm Amalia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
 </h1>
 
-<h3 align="center"><em>Jr Full Stack Developer</em>
+<h3 align="center">
+  <em>Jr Full Stack Developer</em>
   <br><br>
     <code><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></code>
     <code><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></code>
@@ -18,12 +20,14 @@
     <code><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></code>
 </h3>
 
-<h3><code>I'm currently...</code></h3>
+<h3>
+  <code>I'm currently...</code>
+</h3>
 
 <p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Following a 6-month intensive <strong>Full Stack Development</strong> course</p>
 <p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Learning <code>React</code>, <code>Node</code>, <code>TypeScript</code></p>
 <p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Daily using <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>SASS</code>, <code>Bootstrap</code>, <code>WordPress</code>, <code>Elementor</code></p>
-<p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Developing a real web application using <strong>agile methodologies</strong></p>
+<p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Developing a real web application (SPA) with React's component-based architecture using <strong>Agile methodology</strong></p>
 <p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Open to work 👩🏻‍💻</p>
 
 ---
