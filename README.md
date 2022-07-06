@@ -24,10 +24,10 @@
   <code>I'm currently...</code>
 </h3>
 
-<p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Following a 6-month intensive <strong>Full Stack Development</strong> course</p>
-<p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Learning <code>React</code>, <code>Node</code>, <code>TypeScript</code></p>
+<p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Following a 7-month intensive <strong>Full Stack Development</strong> Bootcamp</p>
+<p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Learning <code>React</code>, <code>Node</code>, <code>TypeScript</code>, <code>MongoDB</code></p>
 <p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Daily using <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>SASS</code>, <code>Bootstrap</code>, <code>WordPress</code>, <code>Elementor</code></p>
-<p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Developing a real web application (SPA) with React's component-based architecture using <strong>Agile methodology</strong></p>
+<p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Developing a real web application (SPA) with React's component-based architecture using <strong>Agile and Kanabn methodologies</strong></p>
 <p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Open to work 👩🏻‍💻</p>
 
 ---
