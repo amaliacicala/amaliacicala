@@ -11,6 +11,7 @@
     <code><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e.svg?logo=javascript&logoColor=black"></code>
     <code><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></code>
     <code><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-white.svg?logo=typescript&logoColor=017acb"></code>
+    <code><img alt="Git" src="https://img.shields.io/badge/Git-f0efe7.svg?logo=git"></code>
     <code><img alt="Node.js" src="https://img.shields.io/badge/Node.js-333333.svg?logo=node.js&logoColor=689f63"></code>
     <code><img alt="Express.js" src="https://img.shields.io/badge/Express.js-259dff.svg?logo=express&logoColor=white"></code>
   <br>
