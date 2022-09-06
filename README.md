@@ -3,7 +3,7 @@
   Hiya, human!<br>I'm Amalia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
 </h1>
 
-<h3 align="center">
+<h2 align="center">
   <em>Jr Full Stack Developer</em>
   <br><br>
     <code><img alt="HTML" src="https://img.shields.io/badge/HTML-e44d26.svg?logo=html5&logoColor=white"></code>
@@ -14,20 +14,23 @@
     <code><img alt="Node.js" src="https://img.shields.io/badge/Node.js-333333.svg?logo=node.js&logoColor=689f63"></code>
     <code><img alt="Express.js" src="https://img.shields.io/badge/Express.js-259dff.svg?logo=express&logoColor=white"></code>
   <br>
-    <code><img alt="MySQL" src="https://img.shields.io/badge/MySQL-f29111.svg?logo=mysql&logoColor=00758f"></code>
+    <code><img alt="MySQL" src="https://img.shields.io/badge/MySQL-f29111.svg?logo=mysql"></code>
+    <code><img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-white.svg?logo=sequelize&logoColor=00758f" /></code>
+    <code><img alt="Prisma Migrate" src="https://img.shields.io/badge/Prisma-5a67d8.svg?logo=prisma" /></code>
     <code><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></code>
     <code><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></code>
     <code><img alt="Ant Design" src="https://img.shields.io/badge/-AntDesign-ff4d4f?&logo=ant-design&logoColor=white"></code>
     <code><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></code>
     <code><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></code>
-</h3>
+  <br><br>
+</h2>
 
 <h3>
   <code>I'm currently...</code>
 </h3>
 
 <p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Following a 7-month intensive <strong>Full Stack Development</strong> Bootcamp</p>
-<p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Learning <code>React</code>, <code>Node.js</code>, <code>TypeScript</code>, <code>Express.js</code>, <code>MySQL</code></p>
+<p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Learning <code>React</code>, <code>Node.js</code>, <code>TypeScript</code>, <code>Express.js</code>, <code>MySQL</code>, <code>Sequelize</code></p>
 <p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Daily using <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>SASS</code>, <code>Bootstrap</code>, <code>WordPress</code>
 <p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Developing a real web application (SPA) with React's component-based architecture using <strong>Agile</strong> and <strong>Kanban methodologies</strong></p>
 <p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Open to work 👩🏻‍💻</p>
