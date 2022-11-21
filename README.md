@@ -30,11 +30,10 @@
   <code>I'm currently...</code>
 </h3>
 
-<p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Following a 7-month intensive <strong>Full Stack Development</strong> Bootcamp</p>
+<p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Working as a <code>Developer Analyst</code> at <strong>Deloitte</strong></p>
 <p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Learning <code>React</code>, <code>Node.js</code>, <code>TypeScript</code>, <code>Express.js</code>, <code>MySQL</code>, <code>Sequelize</code></p>
 <p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Daily using <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>SASS</code>, <code>Bootstrap</code>, <code>WordPress</code>
 <p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Developing a real web application (SPA) with React's component-based architecture using <strong>Agile</strong> and <strong>Kanban methodologies</strong></p>
-<p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10">⠀Open to work 👩🏻‍💻</p>
 
 ---
 
