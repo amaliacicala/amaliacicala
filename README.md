@@ -33,6 +33,7 @@
 </h3>
 
 <p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10"> Working as a <code>Front End Developer</code> at <strong>Deloitte Consulting</strong> in Milan</p>
+<p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10"> Contributing to developing the website and EPK for <a href="https://open.spotify.com/artist/0A7v88d7h8uYeGaBhflb45?si=ISBxCRnlQkuYMAjdXTBpQA" target="_blank">Benthos</a> using <code>Vue.js</code> and <code>Tailwind CSS</code> [<a href="https://github.com/taleeus/benthos-v2/commits/main?author=amaliacicala" target="_blank">repo</a>]</p>
 <p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10"> Daily practicing my coding skills with <code>JavaScript</code>, <code>React</code>, <code>Redux</code>, <code>TypeScript</code></p>
 <p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10"> Eating <code>HTML</code> and <code>CSS/SCSS</code> for breakfast
 <p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10"> Learning all about <code>SAP SuccessFactors</code></p>
@@ -44,5 +45,5 @@
 </p>
 
 <div align="center">
-  🔎 <img src="https://komarev.com/ghpvc/?username=amaliacicala&style=flat-square&color=da6b5c&label=Profile+Sneak+Peeks"> 👀
+  <img src="https://komarev.com/ghpvc/?username=amaliacicala&style=flat-square&color=da6b5c&label=Profile+Sneak+Peeks">
 </div>
