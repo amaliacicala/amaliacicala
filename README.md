@@ -10,6 +10,8 @@
     <code><img alt="CSS" src="https://img.shields.io/badge/CSS-1f72b5.svg?logo=css3&logoColor=white"></code>
     <code><img alt="SCSS" src="https://img.shields.io/badge/Scss-hotpink.svg?logo=SASS&logoColor=white"></code>
     <code><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e.svg?logo=javascript&logoColor=black"></code>
+    <code><img alt="Vue" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D"></code>
+    <code><img alt="Pinia" src="https://img.shields.io/badge/Pinia-yellow"></code>
     <code><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></code>
     <code><img alt="Redux" src="https://img.shields.io/badge/Redux-20232a.svg?logo=redux&logoColor=%2361DAFB"></code>
     <code><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-white.svg?logo=typescript&logoColor=017acb"></code>
@@ -21,6 +23,8 @@
     <code><img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-white.svg?logo=sequelize&logoColor=00758f" /></code>
     <code><img alt="Prisma Migrate" src="https://img.shields.io/badge/Prisma-5a67d8.svg?logo=prisma" /></code>
     <code><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></code>
+    <code><img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=AEDDFF"></code>
+    <code><img alt="Quasar" src="https://img.shields.io/badge/Quasar-16B7FB?logo=quasar&logoColor=black"></code>
     <code><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-0e172a?logo=tailwind-css"></code>
     <code><img alt="Ant Design" src="https://img.shields.io/badge/-AntDesign-ff4d4f?&logo=ant-design&logoColor=white"></code>
     <code><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></code>
