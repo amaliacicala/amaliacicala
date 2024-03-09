@@ -4,7 +4,7 @@
 </h1>
 
 <h2 align="center">
-  <em>Jr Front End / Full Stack Developer</em>
+  <em>Front End / Full Stack Developer</em>
   <br><br>
     <code><img alt="HTML" src="https://img.shields.io/badge/HTML-e44d26.svg?logo=html5&logoColor=white"></code>
     <code><img alt="CSS" src="https://img.shields.io/badge/CSS-1f72b5.svg?logo=css3&logoColor=white"></code>
@@ -27,17 +27,6 @@
     <code><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></code>
   <br><br>
 </h2>
-
-<h3>
-  <code>I'm currently...</code>
-</h3>
-
-<p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10"> Working as a <code>Front End Developer</code> at <strong>Deloitte Consulting</strong> in Milan</p>
-<p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10"> Developing web and mobile applications on <code>SAP Business Technology Platform</code></p>
-<p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10"> Contributing to developing the website and EPK for <a href="https://open.spotify.com/artist/0A7v88d7h8uYeGaBhflb45?si=ISBxCRnlQkuYMAjdXTBpQA" target="_blank">Benthos</a> using <code>Vue.js</code> and <code>Tailwind CSS</code> [<a href="https://github.com/taleeus/benthos-v2/commits/main?author=amaliacicala" target="_blank">repo</a>]</p>
-<p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10"> Following a course about <code>Vue.js</code></img></p>
-<p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10"> Daily practicing my coding skills with <code>JavaScript</code>, <code>React</code>, <code>Redux</code>, <code>TypeScript</code></p>
-<p><img src="https://media2.giphy.com/media/sBuPi9qZG73rjELNK9/giphy.gif" width="10"> Eating <code>HTML</code> and <code>CSS/SCSS</code> for breakfast
 
 ---
 
